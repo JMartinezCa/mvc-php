@@ -1,0 +1,10 @@
+@use 'variables' as v;
+
+.centered-content{
+    max-width: 80rem;
+}
+
+.align-rigth{
+    display: flex;
+    justify-content: flex-end;
+}
